@@ -1,7 +1,3 @@
-Got you, Anusha! ⭐
-Here is a **complete, polished, professional FULL README.md** for your GitHub repository — including **project intro, dataset details, novelties, methodology, results, visualizations, installation instructions, and usage**.
-
-You can **copy–paste directly into README.md**.
 
 ---
 
