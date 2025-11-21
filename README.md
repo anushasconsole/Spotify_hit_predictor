@@ -166,7 +166,7 @@ Techniques:
 
 ### 📌 Confusion Matrix — Gradient Boosting
 
-![Confusion Matrix](sandbox:/mnt/data/Screenshot%202025-11-17%20162139.png)
+![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
 
